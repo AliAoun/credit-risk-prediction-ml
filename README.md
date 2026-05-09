@@ -7,13 +7,13 @@ A sophisticated machine learning application for predicting credit risk using XG
 ## 🎨 Application Screenshots
 
 ### Main Dashboard
-![Credit Risk Prediction Dashboard](https://via.placeholder.com/1200x400/4A90E2/FFFFFF?text=Main+Dashboard)
+<img width="1920" height="1080" alt="Credit Risk Prediction Dashboard" src="https://github.com/user-attachments/assets/422aed2f-8826-4dbc-a5e4-d4814fec50e8" />
 
-### Prediction Result with SHAP Explanation
-![SHAP Waterfall Plot](https://via.placeholder.com/1200x400/7B68EE/FFFFFF?text=SHAP+Explanation)
+### Prediction Result with SHAP Explanation & Feature Importance Analysis
 
-### Feature Importance Analysis
-![Feature Importance](https://via.placeholder.com/1200x400/50C878/FFFFFF?text=Feature+Importance+Chart)
+<img width="1920" height="1080" alt="Screenshot (1952)" src="https://github.com/user-attachments/assets/83dab62b-a3c3-4d3a-b066-698b933b63ba" />
+
+<img width="1920" height="1080" alt="Screenshot (1953)" src="https://github.com/user-attachments/assets/38db768e-7b9a-43d3-9bea-f40ce81a050b" />
 
 ---
 
@@ -83,7 +83,7 @@ Predict whether a credit application is **'Good'** (low risk) or **'Bad'** (high
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/credit-risk-prediction-ml.git
+   git clone https://github.com/AliAoun/credit-risk-prediction-ml.git
    cd credit-risk-prediction-ml
    ```
 
@@ -345,7 +345,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **XGBoost Documentation**: https://xgboost.readthedocs.io/
 - **SHAP Documentation**: https://shap.readthedocs.io/
 - **Streamlit Documentation**: https://docs.streamlit.io/
-- **German Credit Dataset**: https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+- **German Credit Dataset**: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
 
 ---
 
@@ -353,8 +353,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions, issues, or suggestions:
 - **Issues**: Open an issue on GitHub
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: smaaj26@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/ali-aoun/
 
 ---
 
